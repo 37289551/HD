@@ -50,7 +50,7 @@ jobs:
        
       - name: Download files
         run: |
-          curl -o IPV4.txt "https://raw.github.com/${{ github.repository }}/master/output/userresult.txt"
+          curl -o IPV4.txt "https://raw.github.com/${{ github.repository }}/master/output/abc.txt"
           # curl -o IPV6.txt "https://raw.github.com/${{ github.repository }}/master/output/ipv6/result.txt"
           # curl -o IPV4.m3u "https://raw.github.com/${{ github.repository }}/master/output/userresult.m3u"
 
@@ -68,7 +68,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@users.noreply.github.com"
           git checkout master || git checkout -b master
-          cp ../abc.txt ./IPV4.txt
+          cp ../IPV4.txt ./
           # cp ../IPV6.txt ./
           # cp ../IPV4.m3u ./
           git add IPV4.txt 

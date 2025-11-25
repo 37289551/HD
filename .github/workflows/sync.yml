@@ -15,28 +15,33 @@ jobs:
           ref: master
 
       - name: Filter channels and generate new file
-        run: |
-          sed -n '/环球频道,#genre#/,/^[^#]*#genre#/{
-            /环球频道,#genre#/p
-            /^[^#]*#genre#/!d
-          }' output/userresult.txt | sed '/环球频道,#genre#/d' > output/temp_filtered.txt
-        
+
+          if [ ! -f "output/userresult.txt" ]; then
+          echo "错误：源文件 output/userresult.txt 不存在"
+          exit 1
+          fi
+
+          mkdir -p output
+          echo "开始处理频道文件..."
+          sed -n '/环球频道,#genre#/,/^[^#]*#genre#/p' output/userresult.txt > output/temp_filtered.txt
           sed '/环球频道,#genre#/,/^[^#]*#genre#/d' output/userresult.txt > output/temp_other.txt
           cat output/temp_other.txt output/temp_filtered.txt > output/abc.txt
+          rm -f output/temp_filtered.txt output/temp_other.txt
         
-          rm output/temp_filtered.txt output/temp_other.txt
+          echo "处理完成！"
+          echo "原始文件行数:$(wc -l < output/userresult.txt)"
+          echo "新文件行数:$(wc -l < output/abc.txt)"
+          echo "生成的文件:output/abc.txt"
         
-          echo "Filtered file generated: output/abc.txt"
-          echo "Original file line count: $(wc -l < output/userresult.txt)"
-          echo "New file line count: $(wc -l < output/abc.txt)"
-        
-      - name: Commit and push if changes
+      - name: Commit Changes to GitHub
         run: |
-         git config --local user.email "action@github.com"
-         git config --local user.name "GitHub Action"
-         git add output/abc.txt
-         git diff --staged --quiet || git commit -m "Add filtered channels file"
-         git push
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/abc.txt
+          git commit -m "Auto: Update filtered channels (${{ steps.process-data.outputs.new_lines }} lines)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        
       - name: Download files
         run: |
@@ -50,18 +55,27 @@ jobs:
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
           GITEE_REPO: ${{ secrets.GITEE_REPO }}
         run: |
+          rm -rf gitee-repo
           git clone "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${GITEE_REPO}.git" gitee-repo
 
-      - name: Sync files
+      - name: Sync Files to Gitee
         run: |
           cd gitee-repo
-          git config user.name "GitHub Actions"
+          git config user.name "GitHub Actions Bot"
           git config user.email "actions@users.noreply.github.com"
-          git checkout master || git checkout -b master
+          git checkout master
           cp ../IPV4.txt ./
-          # cp ../IPV6.txt ./
-          # cp ../IPV4.m3u ./
-          git add IPV4.txt --force
-          # add to above line IPV6.txt IPV4.m3u
-          git commit -m "Sync from GitHub" --allow-empty
-          git push origin master --force
+          if git diff --quiet; then
+            echo "No changes detected, skipping commit"
+          else
+            git add IPV4.txt
+            git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push origin master
+            echo "Sync completed successfully at $(date)"
+          fi
+          
+      - name: Cleanup
+        run: |
+          rm -f IPV4.txt
+          rm -rf gitee-repo
+          echo "Cleanup complet

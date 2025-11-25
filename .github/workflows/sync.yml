@@ -15,7 +15,7 @@ jobs:
           ref: master
 
       - name: Filter channels and generate new file
-
+        run: |
           if [ ! -f "output/userresult.txt" ]; then
           echo "错误：源文件 output/userresult.txt 不存在"
           exit 1
@@ -38,10 +38,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add output/abc.txt
-          git commit -m "Auto: Update filtered channels (${{ steps.process-data.outputs.new_lines }} lines)"
+          git commit -m "Auto: Update filtered channels"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
        
       - name: Download files
         run: |

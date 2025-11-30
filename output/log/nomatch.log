@@ -1,4 +1,6 @@
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+峨眉电影4K,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
+广东珠江,http://pull-skycorp.speedws.com/live/3S8xigHp0f96ji1GgfcK5muiuOFRADBtzjLxBEU2DqbBg5l1J7.flv
 CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 CCTV-风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
@@ -48,7 +50,6 @@ CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 厦门卫视,http://112.6.239.227:8207/hls/17/index.m3u8
 上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
-重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
 CGTN阿拉伯语,https://live.chinacert.cftest5.cn/mg/?id=609154345
 CGTN西班牙语,https://live.chinacert.cftest5.cn/mg/?id=609006450
 CGTN法语,https://live.chinacert.cftest5.cn/mg/?id=609006476
@@ -87,13 +88,7 @@ CGTN俄语,https://live.chinacert.cftest5.cn/mg/?id=609006446
 陕西秦腔频道,https://live.chinacert.cftest5.cn/mg/?id=956909303
 陕西新闻资讯频道,https://live.chinacert.cftest5.cn/mg/?id=956909289
 财富天下,https://live.chinacert.cftest5.cn/mg/?id=956923159
-经典香港电影,https://live.chinacert.cftest5.cn/mg/?id=625703337
-抗战经典影片,https://live.chinacert.cftest5.cn/mg/?id=617432318
-新片放映厅,https://live.chinacert.cftest5.cn/mg/?id=619495952
-CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
-CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
 和美乡途轮播台,https://live.chinacert.cftest5.cn/mg/?id=713591450
-高清大片,https://live.chinacert.cftest5.cn/mg/?id=629943678
 CETV-01,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
@@ -101,7 +96,6 @@ CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
-五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
@@ -114,8 +108,6 @@ CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
 CHC家庭影院HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
@@ -130,12 +122,12 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 天元围棋,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8
 精品导视,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsH265_4000.m3u8
 精品导视2,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsgq-hkkp_4000.m3u8
+峨眉电影4K,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 中央新影-老故事,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lgs_2000.m3u8
 中央新影-中学生,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zxs_4000.m3u8
 中央新影-发现之旅,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/fxzl_2000.m3u8
 书画频道,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/sh_4000.m3u8
 中国天气,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8
-重温经典,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 求索科学,http://111.22.153.159:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
 求索生活,http://111.22.153.159:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 求索动物,http://111.22.153.159:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
@@ -143,7 +135,6 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 爱上4K,http://wouu.net:9977/udp/239.93.0.97:5140
 华数4K,http://111.22.153.159:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
 求索纪录4K,http://tvbox6.icu/tv/gdmzyd.php?id=104
-重温经典,http://8.138.7.223/tv/cwjd.php
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 1905电影网,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 1905电影网（国内）,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
@@ -156,7 +147,6 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 劲爆体育,http://111.22.153.159:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
 哒啵电竞,http://111.22.153.159:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
@@ -173,12 +163,8 @@ CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/li
 睛彩青少,http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 睛彩广场舞,http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 JJ斗地主,http://106.53.99.30/tv/api.php?id=jj
-CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
-CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
 TVB翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
 北京纪实科教8K,http://101.35.240.114:88/brtv8k.php
-重温经典,http://8.138.7.223/tv/cwjd.php
-五星体育,http://101.35.240.114:88/live.php?id=五星体育
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
 鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
@@ -186,11 +172,9 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 翡翠高清,https://test-al-livepull.migucloud.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJHUf2Rp12oP6KkG1PhQWJK.flv
-明珠台,http://bxtv.3a.ink/api.php?id=mz
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
 美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 PopC,http://bxtv.3a.ink/api.php?id=popc
 VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
@@ -199,7 +183,6 @@ NOW爆谷星影台,https://bxtv.3a.ink/api.php?id=xingying
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳亚卫视,http://cdn9.163189.xyz/live/as/stream.m3u8
 TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB无线新闻（备用）,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
@@ -211,7 +194,6 @@ TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -550,7 +532,6 @@ BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88
 东方财经,http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 东方影视,http://111.22.153.159:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 上海外语,http://111.22.153.159:35455/itv/2000000002000000001.m3u8?cdn=hnbblive
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
@@ -643,8 +624,6 @@ BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88
 广东大湾区,http://222.128.55.152:9080/live/dwq.m3u8
 广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111
 广东公共,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111
 广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111
 广东经济科教,http://119.32.12.17:2901/udp/224.1.100.6:11111
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3

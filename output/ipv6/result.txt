@@ -1,15 +1,11 @@
 央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=7425a7d2ce420f350432dce2a59d6925&id=CCTV1&type=yy
-CCTV-1,http://pull-skycorp.speedws.com/live/ft4Fc0PGDbG0WWFgXQNsNRHYYunA1tsr7a7BcSEpS7mJEWwX0jK.flv
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,https://migu.188766.xyz/?migutoken=a2018f06a2e194f35657d0884f912c8a&id=CCTV2&type=yy
-CCTV-2,http://pull-skycorp.speedws.com/live/wsDPybYgMuqWqM6kVbNDXxU1hNsNRHYvGhZHFxhSHx8cqakkdgd999.flv
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-3,https://migu.188766.xyz/?migutoken=8c0582c0ccc70d78a676b7ab376edf49&id=CCTV3&type=yy
-CCTV-3,http://pull-skycorp.speedws.com/live/hbhyTVJFSgCenD0L9fpHmPCFf9duofVKizVpNsNRHY3evb3dZyF.flv
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-4,https://migu.188766.xyz/?migutoken=cc8e7a7f22807c3da6ef053c2d1e0f43&id=CCTV4&type=yy
-CCTV-4,http://pull-skycorp.speedws.com/live/SbKIYMAVfGY0Nq5LEW4SRUDn0NNsNRHYAG166MYUo9TSyI9UUqn.flv
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-5,https://migu.188766.xyz/?migutoken=3b2c76613c7513b3a42402118820aaee&id=CCTV5&type=yy
 CCTV-5,https://migu.188766.xyz/?migutoken=3be1173040caccae97feff3eca15045e&id=CCTV5p&type=yy
@@ -29,10 +25,8 @@ CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-12,https://migu.188766.xyz/?migutoken=146539b482969324d5a0107c66603d7f&id=CCTV12&type=yy
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-13,https://migu.188766.xyz/?migutoken=f2447f14538ee9fc7b8f844020222bb9&id=CCTV13&type=yy
-CCTV-13,http://pull-skycorp.speedws.com/live/LGir9TM1r4L8cYYb8M6Yfwomw9o9lvl0awONsNRHYLWazSU1kmL.flv
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-14,https://migu.188766.xyz/?migutoken=c88d2ce5cb3270f270f6d014d9bf78cb&id=CCTV14&type=yy
-CCTV-14,http://pull-skycorp.speedws.com/live/pyRhADNsNRHYlBACWdbgXVyOiRupG30JAzROyRtO5gX5E4fZWJ7.flv
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-15,https://migu.188766.xyz/?migutoken=4ee7f7813d015a843b66e5db9f04ff2a&id=CCTV15&type=yy
 CCTV-17,https://migu.188766.xyz/?migutoken=065f5b186eb204ba17467eea642fb4b3&id=CCTV17&type=yy
@@ -51,11 +45,9 @@ CCTV美洲,https://migu.188766.xyz/?migutoken=64a2786fe644515d53ba13e4af3fe406&i
 浙江卫视,https://migu.188766.xyz/?migutoken=ca7db0c69a63785aa38b6269ef933244&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=f0cccbfe73a3996727278b2a2b605340&id=z_jws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=c918ef2c5194df17ffd98df84516ddbb&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视,http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 湖南卫视,https://migu.188766.xyz/?migutoken=92d167d15e16e64ef599e25731fe02cf&id=hnws&type=sz
 湖南卫视,https://migu.188766.xyz/?migutoken=02e134a844e4f6e53507a4a87c4f415a&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-湖南卫视,http://pull-skycorp.speedws.com/live/rshHW4V9A5aGocS0bN5foBUP5w0MZNsNRHYVtVE100iJPiMe7rq.flv
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖北卫视,https://migu.188766.xyz/?migutoken=af747c3aeae3c9900b69f541b0f28013&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
@@ -65,14 +57,12 @@ CCTV美洲,https://migu.188766.xyz/?migutoken=64a2786fe644515d53ba13e4af3fe406&i
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 江苏卫视,https://migu.188766.xyz/?migutoken=9ef3d264717f20ef86061aa6785ad315&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
 江苏卫视,https://migu.188766.xyz/?migutoken=16a1797f942093de7cb6b8581eb5329d&id=js4k&pp=1
-江苏卫视,http://pull-skycorp.speedws.com/live/trlXf058oDBEjovR1h5sNsNRHYzksVTZ55YkdEsiVFiGFzpkRsB.flv
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 陕西卫视,https://migu.188766.xyz/?migutoken=2e215bf690ded4e6d0051b77302bc8d9&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 深圳卫视,https://migu.188766.xyz/?migutoken=87e41858a1d27d53c09e93fb9c298d17&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=4c1449f46cfdd8009ceabde81166794b&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-广东卫视,http://pull-skycorp.speedws.com/live/1V56OQc2BnpdihCiNtNsNRHYMjyrh2lzJlM47qBfuLGqM2qKrbC.flv
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 兵团卫视,https://migu.188766.xyz/?migutoken=60d1c1a46c7a21c4cc4adbb53f2f844b&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
@@ -86,8 +76,6 @@ CCTV美洲,https://migu.188766.xyz/?migutoken=64a2786fe644515d53ba13e4af3fe406&i
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 内蒙古卫视,https://migu.188766.xyz/?migutoken=97dd3ab80aee65e41e3753b2ed2e4177&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 青海卫视,https://migu.188766.xyz/?migutoken=f519138c8729e6df502d7c8253f25178&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
-青海卫视,http://pull-skycorp.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
-山西卫视,http://pull-skycorp.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWosNRHYPOG.flv
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 

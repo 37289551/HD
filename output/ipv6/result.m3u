@@ -194,6 +194,10 @@ https://migu.188766.xyz/?migutoken=056522ab501b341b1ff6eeb25bb1417b&id=%E6%96%B0
 #EXTINF:-1 tvg-name="新片放映" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新片放映.png" group-title="影院测试",新片放映
 https://msj.188766.xyz/play?id=3000000010000015686&token=be8de390be8de390be8de390be8de390&client=ys
 #EXTINF:-1 tvg-name="CHC影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影院.png" group-title="影院测试",CHC影院
+https://migu.188766.xyz/?migutoken=b8658fc70882d0aaed9a6d5293d8b373&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+#EXTINF:-1 tvg-name="CHC影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影院.png" group-title="影院测试",CHC影院
+https://migu.188766.xyz/?migutoken=ceee9f150e87404f140fb25773147266&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 tvg-name="CHC影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影院.png" group-title="影院测试",CHC影院
 https://migu.188766.xyz/?migutoken=69ea2bd4dba88f4e01c198f01bf65ac1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 tvg-name="南方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南方影视.png" group-title="影院测试",南方影视
 https://msj.188766.xyz/play?id=3000000010000005180&token=be7fb944be7fb944be7fb944be7fb944&client=ys

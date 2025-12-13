@@ -102,6 +102,8 @@ TVB,https://mgev.188766.xyz/?migutoken=bbd880ad5b2bca0e4c0629aa1e2c6e43&id=hk_yz
 抗战影片,https://migu.188766.xyz/?migutoken=b874654dd71d6d1b2fb309dd2827d699&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
 新片放映,https://migu.188766.xyz/?migutoken=056522ab501b341b1ff6eeb25bb1417b&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
 新片放映,https://msj.188766.xyz/play?id=3000000010000015686&token=be8de390be8de390be8de390be8de390&client=ys
+CHC影院,https://migu.188766.xyz/?migutoken=b8658fc70882d0aaed9a6d5293d8b373&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC影院,https://migu.188766.xyz/?migutoken=ceee9f150e87404f140fb25773147266&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC影院,https://migu.188766.xyz/?migutoken=69ea2bd4dba88f4e01c198f01bf65ac1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 南方影视,https://msj.188766.xyz/play?id=3000000010000005180&token=be7fb944be7fb944be7fb944be7fb944&client=ys
 五星体育,https://migu.188766.xyz/?migutoken=50b5e4c7f435741e3b5e90d627abf223&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1

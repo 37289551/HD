@@ -1,45 +1,125 @@
 CCTV-4K,rtp://239.3.1.245:2000
+2026-05-16 11:37:47,https://iptv.catvod.com/live.php?id=CCTV1&line=4
 北京文艺,rtp://239.3.1.242:8000
+文化精品,http://107.150.60.122/live/ysjp.m3u8
 体育休闲,rtp://239.3.1.243:8000
+文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 北京影视,rtp://239.3.1.158:8000
+央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 北京新闻,rtp://239.3.1.159:8000
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 北京财经,rtp://239.3.1.116:8000
+第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 北京生活,rtp://239.3.1.117:8000
+风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 北京国际,rtp://239.3.1.235:8000
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 纪实科教,rtp://239.3.1.115:8000
+女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 卡酷少儿,rtp://239.3.1.189:8000
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 兵团卫视,rtp://239.3.1.168:8196
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CGTN英语,rtp://239.3.1.215:4220
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 CGTN纪录,rtp://239.3.1.216:4220
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CGTN西语,rtp://239.3.1.217:4220
+湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWVhMzJhZTc3OGUyOGVkZjVmMzhiYjlkNjI5MTRiZTM2JnVpZD0mdXVpZD00Y2U4ODRhNTNkMTMxM2E5NGU0ZmYwNDI2YjM3MzdkOC02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzgxMDUzMjAz/HNGGMPP360.m3u8
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CGTN法语,rtp://239.3.1.218:4220
+湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTc3YjFhNjNhMmYzNmQ4YzlkYzkzOTNhMTNiNTBkNDdlJnVpZD0mdXVpZD0wZWUyMzNkNGQ2MzhlNDRhMmQyN2QyMDIwNWQyNmZiMC02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzgxMDU0MzU1/HNDSMPP360.m3u8
+广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2
 CGTN阿语,rtp://239.3.1.219:4220
+湖南娱乐频道,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTYxMTZlYWRkMTQ1Njk5MjFkODgwODVkZTZiMThhYjliJnVpZD0mdXVpZD1jOWZmOGViYTU1ZmI1MDBkMDUzMjVhMjY5Y2I3NDY1YS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzgxMDc0NTI1/HNYLMPP360.m3u8
+广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
 CGTN俄语,rtp://239.3.1.220:4220
+湖南经视,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTMxOGJkMDYyZjFjN2Y4OTE0NTg2MDk2MTRhZTRkYTdiJnVpZD0mdXVpZD0wY2MxYWFkNGZjMzk3N2U4MjExZWQ3NThkYjZiOTczZS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzgxMDQ2MDM2/HNJSMPP360.m3u8
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 中国教育,rtp://239.3.1.57:8152
+金鹰纪实频道,https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWNmMDVmM2JjNTgwMWE0NTgzYTkwNDliNjJiNDQzODk4JnVpZD0mdXVpZD00NTAzMmYyYzJiYzgwNWQ5ZjRmYjc5OTVjNGRhMWE3OC02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzgxMDY3MzQ2/JYJSMPP360.m3u8
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 中国交通,rtp://239.3.1.188:8001
+金鹰卡通,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz1kMmFhNGZhM2ZiYzRhNDViOTEzMzk0NDE0ZGMwNjU3NCZ1aWQ9JnV1aWQ9MjM4YjUyZmMwODJkYWExMzBlYzM4NjVkYzU3YzE3OTgtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc4MTA3NDEwNg,,/JYKTMPP360.m3u8
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=3
 中国天气,rtp://239.3.1.165:8001
+湖南国际频道,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lMyZjaHM9JmRlZj0xJnM9MmRiMGE2NzM2NDk2NWI0NmYwNDk2OTQ0YWQwMGIxMTAmdWlkPSZ1dWlkPTc2NzkxMmMwMjIyMjAzODIzM2IzMzk0YWYzOWUyMDRiLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3ODEwNzQ4NTc,/HNGJMPP360.m3u8
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=1
 四海钓鱼,rtp://239.3.1.164:8001
+湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWE5ZDk5OTc3OGIzNDAwOGEwZmQ4MmY3NzIxZGNlYmQ4JnVpZD0mdXVpZD04NTI3NzZkYzA1YzRhOWQ1YTQ4OWFlOTI1YjMyMTQwNC02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzgxMDY0MDc0/HNDSJMPP360.m3u8
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 金鹰纪实,rtp://239.3.1.58:8156
+长沙新闻频道,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz01NTVlZjQ2ZmVkMzg5MGY3N2YzYjY2ZmRkMDRlY2RjNSZ1aWQ9JnV1aWQ9M2JhM2EyZmI4OTA2MzhhOTlhMWJhNzg5Yzk1ODgxYjEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc4MTA1NjU3Ng,,/CSXWMPP360.m3u8
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&line=2
 证券服务,rtp://239.3.1.24:8001
+澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 睛彩竞技,rtp://239.3.1.125:8001
+Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 睛彩篮球,rtp://239.3.1.126:8001
+Bloomberg TV Asia,http://210.210.155.37/dr9445/h/h03/index.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 睛彩青少,rtp://239.3.1.127:8001
+KIX,http://210.210.155.37/dr9445/h/h07/index.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 睛彩广场舞,rtp://239.3.1.128:8001
+HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 爱上4K,rtp://239.3.1.236:2000
+Celestial Movies,http://210.210.155.37/dr9445/h/h14/index.m3u8
+浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 4K超清,rtp://239.3.1.249:8001
+tvN Movies Asia,http://210.210.155.37/dr9445/h/h21/index.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 城市剧场,rtp://239.3.1.67:4120
+TVB News,http://r.jdshipin.com/CkuBd
+浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 军旅剧场,rtp://239.3.1.68:4120
+Good,https://live.streamingfast.net/osmflivech1.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 古装剧场,rtp://239.3.1.69:4120
+Good 2,https://live.streamingfast.net/osmflivech2.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 精选高清,rtp://239.3.1.74:4120
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 武侠剧场,rtp://239.3.1.90:4120
+TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 喜剧影院,rtp://239.3.1.91:4120
+Taiwan Plus TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 ,动作影院,rtp://239.3.1.92:4120
+Genius Go Go Go,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 家庭影院,rtp://239.3.1.93:4120
+DaAi 1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 星影高清,rtp://239.3.1.94:4120
+DaAi 2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 光影高清,rtp://239.3.1.84:4120
+Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 经典电影,rtp://239.3.1.195:9024
+EBC YOYO,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
 group-title="数字" zz-definition="HD",重温经典,rtp://239.3.1.25:8001
+CTi News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 热播剧场,rtp://239.3.1.194:9020
+FTV News,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 魅力时尚,rtp://239.3.1.196:9012
+Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 少儿动画,rtp://239.3.1.199:9000
+SET iNews,https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 动画高清,rtp://239.3.1.80:4120
+TTV News,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
